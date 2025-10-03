@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "background": {
+      "title": "背景插件",
+      "description": "桌面应用程序的背景插件"
+    }
+  }
+}
+

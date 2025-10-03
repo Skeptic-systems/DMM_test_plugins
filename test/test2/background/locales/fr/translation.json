@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "background": {
+      "title": "Plugin d'arrière-plan",
+      "description": "Un plugin d'arrière-plan pour l'application de bureau"
+    }
+  }
+}
+

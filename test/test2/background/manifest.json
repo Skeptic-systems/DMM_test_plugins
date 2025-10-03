@@ -1,0 +1,9 @@
+{
+  "id": "background",
+  "nameKey": "plugins.background.title",
+  "descriptionKey": "plugins.background.description",
+  "version": "1.0.0",
+  "author": "official",
+  "homepageUrl": "https://example.com/background",
+  "iconPath": "icon.svg"
+}

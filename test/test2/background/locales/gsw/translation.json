@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "background": {
+      "title": "Hintergrund-Plugin",
+      "description": "Es Hintergrund-Plugin für d Desktop-App"
+    }
+  }
+}
+

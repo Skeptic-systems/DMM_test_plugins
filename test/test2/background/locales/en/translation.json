@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "background": {
+      "title": "Background Plugin",
+      "description": "A background plugin for the desktop app"
+    }
+  }
+}
+

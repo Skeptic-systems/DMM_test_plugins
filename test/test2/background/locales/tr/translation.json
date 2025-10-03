@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "background": {
+      "title": "Arka plan eklentisi",
+      "description": "Masaüstü uygulaması için arka plan eklentisi"
+    }
+  }
+}
+

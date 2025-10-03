@@ -1,0 +1,7 @@
+[
+    {
+      "id": "background",
+      "entry": "background/index.tsx",
+      "manifest": "background/manifest.json"
+    }
+  ]

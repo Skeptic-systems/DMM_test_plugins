@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "background": {
+      "title": "Wtyczka tła",
+      "description": "Wtyczka tła dla aplikacji desktopowej"
+    }
+  }
+}
+
